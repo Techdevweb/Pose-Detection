@@ -1,4 +1,4 @@
-# A React App that uses Twensorflow and Posenet to detect pose.
+# A React App that uses Tensorflow and Posenet to detect pose.
 
 # Getting Started with Create React App
 
